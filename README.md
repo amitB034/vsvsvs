@@ -1,4 +1,5 @@
 # vsvsvs
 
 ## 今日やること
--conflictについて
+-conflictについて[^1]
+[^1]:conflict-衝突のこと
